@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yowhan04
+- 👋 Hi, I’m @Yowhan
 - 👀 I’m interested in anything as long as I'm having fun with it.
 - 🌱 I’m currently learning programming specificaly a Python Language.
 - 💞️ I’m looking to collaborate on any programmer out there who also want to improve their programming skill and build a projects.
